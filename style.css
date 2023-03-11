@@ -1,0 +1,68 @@
+* {
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: rgb(163, 163, 163);
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+h1 {
+    color: #ffffff;  
+}
+
+.dog-btn {
+    background-color: #EA4C89;
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 22px;
+    font-weight: 500;
+    height: 40px;
+    line-height: 20px;
+    list-style: none;
+    outline: none;
+    padding: 10px 20px;
+    text-decoration: none;
+    transition: color 100ms;
+    /* vertical-align: baseline; */
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    margin-top: 4rem;
+}
+
+.dog-btn:hover,
+.dog-btn:focus {
+background-color: #F082AC;
+}
+
+.image-container {
+    max-width: 800px;
+    max-height: 800px;
+    border: 20px solid rgb(214, 214, 214); 
+    border-radius: 2%;
+    margin-top: 4rem;
+    
+    object-fit: contain;
+}
+
+@media (max-width: 375px) {
+    .image-container {
+        max-width: 80%;
+        display: block;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 375px) {
+    h1 {
+        font-size: 1.2em;
+    }
+}
