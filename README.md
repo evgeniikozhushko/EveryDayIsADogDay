@@ -4,11 +4,11 @@ Webpage with a single button that will change the image of the dog, and hopefull
 
 ## Motivation
 
-My girlfriend would really like to have a dog, due to some living circumstances she can't have an animal in her premises, therefore I have decided to make a simple webpage to lift her mood up! I use [dog.ceo](https://dog.ceo/dog-api/) API (The internet's biggest collection of open source dog pictures.) to make her smile :blush:
+My girlfriend would really like to have a dog, due to some living circumstances she can't have an animal in her premises, therefore I have decided to make a simple webpage to lift her mood up! I use [dog.ceo](https://dog.ceo/dog-api/) API to make her smile :blush:
 
 ## Method and results
 
-The method used in this webpage is a simple URL fetched API provided by [dog.ceo](https://dog.ceo/dog-api/)
+The method used in this webpage is a simple URL fetched API provided by [dog.ceo](https://dog.ceo/dog-api/).
 
 The webpage is hosted on [Netlify](https://app.netlify.com/teams/evgeniikozhushko/overview). 
 
