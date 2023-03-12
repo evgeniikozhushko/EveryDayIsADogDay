@@ -1,6 +1,6 @@
 # Every Day Is A Dog Day!
 
-Webpage with a single button that will change the image of the dog, and hopefully make you smile! :smile:
+Webpage with a single button that will change the image of the :dog:, and hopefully make you smile! :smile:
 
 ## Motivation
 
