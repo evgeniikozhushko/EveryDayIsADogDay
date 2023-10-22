@@ -45,7 +45,7 @@ The directory structure and files, are simple:
 
 ## Running instructions
 
-The user can visit [Every Day Is A Dog Day!](https://app.netlify.com/teams/evgeniikozhushko/overview) page and enjoy a random selection of dog images by clicking on the `New doggy :)` button.
+The user can visit [Every Day Is A Dog Day!](https://everydayisadogday.netlify.app/) page and enjoy a random selection of dog images by clicking on the `New doggy :)` button.
 
 ## About
 
